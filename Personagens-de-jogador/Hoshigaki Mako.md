@@ -2,7 +2,7 @@
 
 ## Jogador
 
-Pudim
+Renan(Pudim)
 
 ## background
 
