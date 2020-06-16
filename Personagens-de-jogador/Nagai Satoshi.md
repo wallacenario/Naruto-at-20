@@ -1,0 +1,5 @@
+# Nagar Satoshi
+
+## Jogador
+
+WallO
