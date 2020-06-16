@@ -1,4 +1,4 @@
-# Nagar Satoshi
+# Nagai Satoshi
 ![Personagem](https://steamuserimages-a.akamaihd.net/ugc/939460803462332706/82DFC2A1C0E29C15214AA315A315B1BAE1AC8974/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true "Personagem")
 ## Jogador
 
