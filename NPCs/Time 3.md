@@ -15,7 +15,7 @@ Backgroud desconhecido.
 
 * Aparentemente rival de Onuma.
 
-## Kentaro Senju (Genin)
+## Kentaro Senju
 
 ![Personagem](https://i.pinimg.com/originals/76/24/b9/7624b9502abd60f2580344066dfb2b3f.jpg "Personagem")
 
@@ -26,7 +26,7 @@ Backgroud desconhecido.
 
 Background desconhecido.
 
-## Izumi Uchiha (Genin)
+## Izumi Uchiha
 
 ![Personagem](https://i.pinimg.com/originals/16/5f/ee/165fee712986a78fb178397a9ea37952.jpg "Personagem")
 
@@ -37,7 +37,7 @@ Background desconhecido.
 
 Background desconhecido.
 
-## Tsuruki Hyuuga (Genin)
+## Tsuruki Hyuuga
 
 ![Personagem](https://queridojeito-com.exactdn.com/wp-content/uploads/2016/09/Autor-Desconhecido.jpg?strip=all&lossy=1&ssl=1 "Personagem")
 
