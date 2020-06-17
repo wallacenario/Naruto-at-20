@@ -1,0 +1,1 @@
+TIME 3 - Keishi Sarutobi (jounin), kentaro senju, tsuruki Hyuuga, izumi uchiha (genin)
